@@ -1,0 +1,11 @@
+{
+    
+
+    "baseUrl": "https://answerbook.david888.com",
+    "paths": {
+        "api/*": "http://localhost:3000/*"
+    }
+    ,
+    "localUrl": "https://localhost:5050",
+    "mode": "development mode"
+}
