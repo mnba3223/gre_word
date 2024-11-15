@@ -18,6 +18,7 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 
 
 # 目錄結構
+```tree
 lib/
   ├── app/
   │   ├── app.dart
@@ -61,4 +62,4 @@ lib/
   │
   └── main.dart
 
-
+```
